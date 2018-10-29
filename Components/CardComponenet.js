@@ -15,8 +15,8 @@ export default class CardComponenet  extends React.Component {
                 <Left>
                    <Thumbnail source={require('../Img/Rishabh.jpg')} />
                     <Body>
-                        <Text>Rishabh_Yadav</Text>
-                        <Text note>Jan 17 1996</Text>
+                        <Text> Rishabh_Yadav </Text>
+                        <Text note> Jan 17 1996 </Text>
                     </Body>
                 </Left>
             </CardItem>
@@ -41,7 +41,7 @@ export default class CardComponenet  extends React.Component {
                 <Body>
                     <Text style={{paddingLeft: 13}}>
                         <Text style={{fontWeight: "900"}}> eideticbrain </Text>
-                        Prashant Ab tho tu Kush hai na 
+                        Prashant toh bahut khush hoga na 
                     </Text>
                 </Body>
             </CardItem>
